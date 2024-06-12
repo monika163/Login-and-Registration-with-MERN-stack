@@ -85,7 +85,7 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 
 ## Screenshots
 
-![Register](https://github.com/monika163/Login-and-registration-with-MERN-stack/assets/61625011/4289d0c1-6fad-428c-ae4c-ab4c89cee44e)
+![Register](https://github.com/monika163/Login-and-Registration-with-MERN-stack/assets/61625011/edac70f9-38db-4b98-8745-fbfea02e9c04)
 
 ---
 
