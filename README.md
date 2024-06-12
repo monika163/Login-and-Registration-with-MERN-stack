@@ -89,11 +89,11 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 
 ---
 
-![Login](https://github.com/monika163/Login-and-registration-with-MERN-stack/assets/61625011/eb21848b-6bb2-443b-9b85-42f44df059f2)
+![Login](https://github.com/monika163/Login-and-Registration-with-MERN-stack/assets/61625011/0a591ab8-a9b4-46de-bfce-46a3da477805)
 
 ---
 
-![Dashboard](https://github.com/monika163/Login-and-registration-with-MERN-stack/assets/61625011/25d06371-b935-45b6-b51d-bd70c3298fe0)
+![Dashboard](https://github.com/monika163/Login-and-Registration-with-MERN-stack/assets/61625011/ed9dbd07-a8ab-49a9-a825-bec80db38055)
 
 ---
 
