@@ -2,7 +2,7 @@
 
 This project is a simple MERN stack login page implementation. It allows users to register, login, and logout using authentication tokens.
 
-Deployed link : https://login-and-registration-with-mern-stack-1.onrender.com
+Deployed link : https://login-and-registration-with-mern-stack.onrender.com
 
 ## Login and registration with MongoDB, Express, React & Nodejs (MERN).
 
