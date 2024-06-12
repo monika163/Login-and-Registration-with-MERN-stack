@@ -1,0 +1,104 @@
+# Login and registration with MERN stack
+
+This project is a simple MERN stack login page implementation. It allows users to register, login, and logout using authentication tokens.
+
+Deployed link => later
+
+## Login and registration with MongoDB, Express, React & Nodejs (MERN).
+
+- [Key Features](#key-features)
+- [Technologies used](#technologies-used)
+  - [Frontend](#frontend)
+  - [Backend](#backend)
+  - [Database](#database)
+- [Configuration and Setup](#configuration-and-setup)
+- [📸 Screenshots](#screenshots)
+- [Author](#author)
+
+## Key Features
+
+- User registration and login
+- User Registration: Allows new users to create an account.
+- User Login: Enables users to log in with their credentials.
+- JWT Authentication: Secures user sessions using JSON Web Tokens.
+- Responsive Design: Ensures a great user experience across various devices.
+- Logout functionality
+
+## Technologies used
+
+This project was created using the following technologies.
+
+#### Frontend
+
+- [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications
+- [React Hooks ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
+- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
+- [axios](https://www.npmjs.com/package/axios) - For making Api calls
+- [React icons](https://www.npmjs.com/package/react-icons) - Small library that helps you add icons to your react apps.
+- [Toastify](https://www.npmjs.com/package/react-toastify) - For random id generator
+
+#### Backend
+
+- [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
+- [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
+- [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
+- [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
+- [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
+- [Nodemon](https://www.npmjs.com/package/nodemon) - an auto-refresh the server on code change
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
+- [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For data encryption
+
+#### Database
+
+- [MongoDB ](https://www.mongodb.com/) - A NoSQL database used to store user information
+
+## Configuration and Setup
+
+### Setup .env file
+
+```shell
+MONGO_URI = your_mongodb_uri;
+JWT_SECRET = your_jwt_secret;
+```
+
+### Installation
+
+```shell
+Install dependencies for server
+npm install
+
+Install dependencies for client
+cd client
+npm install
+
+Run the client & server with concurrently
+npm run dev
+
+Run the Express server only
+npm run server
+
+Run the React client only
+npm run client
+
+Server runs on http://localhost:5000 and client on http://localhost:3000
+```
+
+## Screenshots
+
+![Register](https://github.com/monika163/Login-and-registration-with-MERN-stack/assets/61625011/4289d0c1-6fad-428c-ae4c-ab4c89cee44e)
+
+---
+
+![Login](https://github.com/monika163/Login-and-registration-with-MERN-stack/assets/61625011/eb21848b-6bb2-443b-9b85-42f44df059f2)
+
+---
+
+![Dashboard](https://github.com/monika163/Login-and-registration-with-MERN-stack/assets/61625011/25d06371-b935-45b6-b51d-bd70c3298fe0)
+
+---
+
+## Author
+
+- Portfolio: [monika163](----)
+- Github: [monika163](https://github.com/monika163)
+- Linkedin: [monika163](https://www.linkedin.com/in/monika-dewangan-78a427149/)
